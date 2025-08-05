@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="../../Domain/src/Yathzee.Domain.csproj" />
-  </ItemGroup>
-
 </Project>
